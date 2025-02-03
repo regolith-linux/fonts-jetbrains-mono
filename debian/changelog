@@ -1,3 +1,19 @@
+fonts-jetbrains-mono (1.0.2-1regolith1) eoan; urgency=medium
+
+  [ Ken Gilmer ]
+  * Bump compat version
+  * Add font files from upstream tarball
+
+  [ Khosrow Moossavi ]
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * chore: use regolith-ci-bot user and token
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 Feb 2025 20:49:48 +0000
+
 fonts-jetbrains-mono (1.0.1-1regolith1) eoan; urgency=medium
 
   * Taking Dirk's work into the Regolith PPAs. 
